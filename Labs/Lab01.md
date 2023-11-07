@@ -26,3 +26,4 @@ set up work environment
 - Learn how and when to source
 	- source one of the scripts and echo the variables
 # 1. Setup #
+Linux is a huge portion of working with ROS

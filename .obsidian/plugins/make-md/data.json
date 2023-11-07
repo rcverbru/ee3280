@@ -36,7 +36,8 @@
     "//Introduction to Linux.md",
     "//Introduction to ROS.md",
     "//Overview.md",
-    "Spaces/Home//"
+    "Spaces/Home//",
+    "//Labs"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

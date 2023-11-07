@@ -3,7 +3,7 @@ Throughout these sets of files we're going to try and organize an entry level ap
 # Side notes #
 Additionally, please take note that in __no way, shape or form__ are we saying that we know everything there is to know about ROS. We am just trying to help shed light into the area from the point of view from our current progress. At the time of writing this, Ryan has been working with ROS for about a year now and this is how the two of us would suggest approaching things as someone new to this course. If you want more information, go read from some of the amazing documentation written down where we learned everything that we know... [The ROS Tutorials](https://wiki.ros.org/ROS/Tutorials). However, the best way to learn all of this is to work with it enough.
 # Getting Started #
-Now before we begin, here's the generalized structure of the contents that is going to be covered. The aim of this notebook is to build a better guide for each lab that will be thrown at you during the duration of this course as well as supplement the lectures.
+Now before we begin, here's the generalized structure of the contents that is going to be covered. The aim of this notebook is to build a better guide for each lab that will be thrown at you during the duration of this course as well as supplement the lectures in class. 
 
 ## Contents: ##
 - [[Introduction to Linux]]
@@ -28,7 +28,7 @@ Now before we begin, here's the generalized structure of the contents that is go
 - [[Bags and Data saving]]
 - [[Debugging]]
 	- [[Common Errors]]
-- 
+- Homework
 	- [[Week0]]
 	- [[Week1]]
 	- [[Week2]]
@@ -45,6 +45,7 @@ Now before we begin, here's the generalized structure of the contents that is go
 	- [[Week13]]
 	- [[Week14]]
 - [[Labs]]
+	- [[Labs_Introduction]]
 	- [[Lab01]]
 	- [[Lab02]]
 	- [[Lab03]]

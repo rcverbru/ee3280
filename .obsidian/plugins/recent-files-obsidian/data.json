@@ -1,32 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Overview",
-      "path": "Overview.md"
-    },
-    {
-      "basename": "Week0",
-      "path": "Homework/Week0.md"
-    },
-    {
-      "basename": "Lab02",
-      "path": "Labs/Lab02.md"
-    },
-    {
       "basename": "Lab01",
       "path": "Labs/Lab01.md"
-    },
-    {
-      "basename": "Lab03",
-      "path": "Labs/Lab03.md"
     },
     {
       "basename": "Introduction to Linux",
       "path": "Introduction to Linux.md"
     },
     {
+      "basename": "Overview",
+      "path": "Overview.md"
+    },
+    {
       "basename": "SAT2711 to Now",
       "path": "SAT2711 to Now.md"
+    },
+    {
+      "basename": "Labs_Introduction",
+      "path": "Labs/Labs_Introduction.md"
+    },
+    {
+      "basename": "Week0",
+      "path": "Homework/Week0.md"
+    },
+    {
+      "basename": "Lab05",
+      "path": "Labs/Lab05.md"
+    },
+    {
+      "basename": "Lab02",
+      "path": "Labs/Lab02.md"
+    },
+    {
+      "basename": "Lab03",
+      "path": "Labs/Lab03.md"
     },
     {
       "basename": "Introduction to ROS",
@@ -67,10 +75,6 @@
     {
       "basename": "Lab06",
       "path": "Labs/Lab06.md"
-    },
-    {
-      "basename": "Lab05",
-      "path": "Labs/Lab05.md"
     },
     {
       "basename": "Lab04",
@@ -195,10 +199,6 @@
     {
       "basename": "first_adding_signals",
       "path": "Excalidraw/ee_3160/first_adding_signals.md"
-    },
-    {
-      "basename": "impulse_example",
-      "path": "Excalidraw/ee_3160/impulse_example.md"
     }
   ],
   "omittedPaths": [],
