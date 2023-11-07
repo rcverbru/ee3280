@@ -1,0 +1,207 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Lab02",
+      "path": "Labs/Lab02.md"
+    },
+    {
+      "basename": "Lab01",
+      "path": "Labs/Lab01.md"
+    },
+    {
+      "basename": "Lab03",
+      "path": "Labs/Lab03.md"
+    },
+    {
+      "basename": "Introduction to Linux",
+      "path": "Introduction to Linux.md"
+    },
+    {
+      "basename": "SAT2711 to Now",
+      "path": "SAT2711 to Now.md"
+    },
+    {
+      "basename": "Overview",
+      "path": "Overview.md"
+    },
+    {
+      "basename": "Week0",
+      "path": "Homework/Week0.md"
+    },
+    {
+      "basename": "Introduction to ROS",
+      "path": "Introduction to ROS.md"
+    },
+    {
+      "basename": "Homework",
+      "path": "Homework/Homework.md"
+    },
+    {
+      "basename": "Week4",
+      "path": "Homework/Week4.md"
+    },
+    {
+      "basename": "Week3",
+      "path": "Homework/Week3.md"
+    },
+    {
+      "basename": "Week2",
+      "path": "Homework/Week2.md"
+    },
+    {
+      "basename": "Week1",
+      "path": "Homework/Week1.md"
+    },
+    {
+      "basename": "ROS Structure",
+      "path": "ROS Structure.md"
+    },
+    {
+      "basename": "Lab08",
+      "path": "Labs/Lab08.md"
+    },
+    {
+      "basename": "Lab07",
+      "path": "Labs/Lab07.md"
+    },
+    {
+      "basename": "Lab06",
+      "path": "Labs/Lab06.md"
+    },
+    {
+      "basename": "Lab05",
+      "path": "Labs/Lab05.md"
+    },
+    {
+      "basename": "Lab04",
+      "path": "Labs/Lab04.md"
+    },
+    {
+      "basename": "lab_template",
+      "path": "templates/lab_template.md"
+    },
+    {
+      "basename": "Kalman Filter",
+      "path": "fall23_classes/ee3280/Kalman Filter.md"
+    },
+    {
+      "basename": "fall23",
+      "path": "rse/fall23/fall23.md"
+    },
+    {
+      "basename": "week6_day3",
+      "path": "fall23_classes/ee3160/class_notes/week6_day3.md"
+    },
+    {
+      "basename": "week7_day1",
+      "path": "fall23_classes/ee3160/class_notes/week7_day1.md"
+    },
+    {
+      "basename": "week4_day3",
+      "path": "fall23_classes/ee3160/class_notes/week4_day3.md"
+    },
+    {
+      "basename": "week3_day3",
+      "path": "fall23_classes/ee3160/class_notes/week3_day3.md"
+    },
+    {
+      "basename": "week5_day1",
+      "path": "fall23_classes/ee3160/class_notes/week5_day1.md"
+    },
+    {
+      "basename": "week5_day2",
+      "path": "fall23_classes/ee3160/class_notes/week5_day2.md"
+    },
+    {
+      "basename": "week5_day3",
+      "path": "fall23_classes/ee3160/class_notes/week5_day3.md"
+    },
+    {
+      "basename": "week3_day2",
+      "path": "fall23_classes/ee3160/class_notes/week3_day2.md"
+    },
+    {
+      "basename": "week6_day1",
+      "path": "fall23_classes/ee3160/class_notes/week6_day1.md"
+    },
+    {
+      "basename": "week6_day2",
+      "path": "fall23_classes/ee3160/class_notes/week6_day2.md"
+    },
+    {
+      "basename": "signal_operations",
+      "path": "fall23_classes/ee3160/class_notes/signal_operations.md"
+    },
+    {
+      "basename": "causality_and_bibo_stability",
+      "path": "fall23_classes/ee3160/reading_notes/causality_and_bibo_stability.md"
+    },
+    {
+      "basename": "theres_no_signal",
+      "path": "fall23_classes/ee3160/class_notes/theres_no_signal.md"
+    },
+    {
+      "basename": "funky_signals_friday",
+      "path": "fall23_classes/ee3160/class_notes/funky_signals_friday.md"
+    },
+    {
+      "basename": "Signals_Day_1",
+      "path": "fall23_classes/ee3160/class_notes/Signals_Day_1.md"
+    },
+    {
+      "basename": "microcontroller_and_r2r",
+      "path": "Excalidraw/ee_3171/microcontroller_and_r2r.md"
+    },
+    {
+      "basename": "fall23_classes",
+      "path": "fall23_classes/fall23_classes.md"
+    },
+    {
+      "basename": "adc_utilization",
+      "path": "fall23_classes/ee3171/adc_utilization.md"
+    },
+    {
+      "basename": "interrupts",
+      "path": "fall23_classes/ee3171/interrupts.md"
+    },
+    {
+      "basename": "lcd_stuff",
+      "path": "fall23_classes/ee3171/lcd_stuff.md"
+    },
+    {
+      "basename": "ee3171",
+      "path": "fall23_classes/ee3171/ee3171.md"
+    },
+    {
+      "basename": "meem2700",
+      "path": "fall23_classes/meem2700/meem2700.md"
+    },
+    {
+      "basename": "combining_signals_example",
+      "path": "Excalidraw/ee_3160/combining_signals_example.md"
+    },
+    {
+      "basename": "circuit_for_9-25",
+      "path": "Excalidraw/ee_3160/circuit_for_9-25.md"
+    },
+    {
+      "basename": "time_constant",
+      "path": "Excalidraw/ee_3160/time_constant.md"
+    },
+    {
+      "basename": "signal_calculations",
+      "path": "Excalidraw/ee_3160/signal_calculations.md"
+    },
+    {
+      "basename": "first_adding_signals",
+      "path": "Excalidraw/ee_3160/first_adding_signals.md"
+    },
+    {
+      "basename": "impulse_example",
+      "path": "Excalidraw/ee_3160/impulse_example.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}
