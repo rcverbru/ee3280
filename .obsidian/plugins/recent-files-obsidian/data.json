@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Overview",
+      "path": "Overview.md"
+    },
+    {
+      "basename": "Week0",
+      "path": "Homework/Week0.md"
+    },
+    {
       "basename": "Lab02",
       "path": "Labs/Lab02.md"
     },
@@ -19,14 +27,6 @@
     {
       "basename": "SAT2711 to Now",
       "path": "SAT2711 to Now.md"
-    },
-    {
-      "basename": "Overview",
-      "path": "Overview.md"
-    },
-    {
-      "basename": "Week0",
-      "path": "Homework/Week0.md"
     },
     {
       "basename": "Introduction to ROS",

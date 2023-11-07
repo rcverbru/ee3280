@@ -11,8 +11,12 @@
             "id": "058751efe22d2bb9",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Overview.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -98,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Labs/Lab02.md",
+                "file": "Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Labs/Lab02.md",
+                "file": "Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Labs/Lab02.md"
+                "file": "Overview.md"
               }
             }
           }
@@ -165,13 +169,13 @@
   },
   "active": "058751efe22d2bb9",
   "lastOpenFiles": [
+    "Homework/Week0.md",
     "Labs/Lab01.md",
     "Labs/Lab03.md",
     "Labs/Lab02.md",
     "Introduction to Linux.md",
     "SAT2711 to Now.md",
     "Overview.md",
-    "Homework/Week0.md",
     "Introduction to ROS.md",
     "Homework/Homework.md",
     "Homework2/Homework2.md",
