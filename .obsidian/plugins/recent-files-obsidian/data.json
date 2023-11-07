@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Lab01",
-      "path": "Labs/Lab01.md"
+      "basename": "Lab01_Manual",
+      "path": "Labs/Lab01/Lab01_Manual.md"
     },
     {
-      "basename": "Introduction to Linux",
-      "path": "Introduction to Linux.md"
+      "basename": "Lab01",
+      "path": "Labs/Lab01/Lab01.md"
     },
     {
       "basename": "Overview",
       "path": "Overview.md"
+    },
+    {
+      "basename": "Lab02",
+      "path": "Labs/Lab02.md"
+    },
+    {
+      "basename": "Introduction to Linux",
+      "path": "Introduction to Linux.md"
     },
     {
       "basename": "SAT2711 to Now",
@@ -27,10 +35,6 @@
     {
       "basename": "Lab05",
       "path": "Labs/Lab05.md"
-    },
-    {
-      "basename": "Lab02",
-      "path": "Labs/Lab02.md"
     },
     {
       "basename": "Lab03",
@@ -195,10 +199,6 @@
     {
       "basename": "signal_calculations",
       "path": "Excalidraw/ee_3160/signal_calculations.md"
-    },
-    {
-      "basename": "first_adding_signals",
-      "path": "Excalidraw/ee_3160/first_adding_signals.md"
     }
   ],
   "omittedPaths": [],

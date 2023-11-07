@@ -47,6 +47,7 @@ Now before we begin, here's the generalized structure of the contents that is go
 - [[Labs]]
 	- [[Labs_Introduction]]
 	- [[Lab01]]
+		- [[Lab01_Manual]]
 	- [[Lab02]]
 	- [[Lab03]]
 	- [[Lab04]]

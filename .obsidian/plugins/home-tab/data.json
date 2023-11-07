@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Labs/Lab01.md",
-      "timestamp": 1699336628023
+      "filepath": "Labs/Lab01/Lab01_Manual.md",
+      "timestamp": 1699338753100
+    },
+    {
+      "filepath": "Labs/Lab01/Lab01.md",
+      "timestamp": 1699338739830
+    },
+    {
+      "filepath": "Overview.md",
+      "timestamp": 1699338631449
+    },
+    {
+      "filepath": "Labs/Lab02.md",
+      "timestamp": 1699337578386
     },
     {
       "filepath": "Introduction to Linux.md",
       "timestamp": 1699336625679
-    },
-    {
-      "filepath": "Overview.md",
-      "timestamp": 1699335761754
-    },
-    {
-      "filepath": "SAT2711 to Now.md",
-      "timestamp": 1699335761157
-    },
-    {
-      "filepath": "Labs/Labs_Introduction.md",
-      "timestamp": 1699333676270
     }
   ],
   "starredFileStore": [],

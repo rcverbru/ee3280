@@ -37,7 +37,12 @@
     "//Introduction to ROS.md",
     "//Overview.md",
     "Spaces/Home//",
-    "//Labs"
+    "//Labs",
+    "//Labs/Labs/Lab01",
+    "//Labs/Labs/Lab01",
+    "//Labs/Labs/Lab01",
+    "//Labs/Labs/Lab01",
+    "//Labs/Labs/Lab01"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -70,7 +75,8 @@
     "Labs",
     "templates",
     "Homework",
-    "Homework2"
+    "Homework2",
+    "Labs/Lab01"
   ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",

@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Labs/Lab01.md",
+                "file": "Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "33132e59965e1ee8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Labs/Lab01/Lab01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "892e70d5d67da2be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Labs/Lab01/Lab01_Manual.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Labs/Lab01.md",
+                "file": "Labs/Lab01/Lab01_Manual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Labs/Lab01.md",
+                "file": "Labs/Lab01/Lab01_Manual.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Labs/Lab01.md"
+                "file": "Labs/Lab01/Lab01_Manual.md"
               }
             }
           }
@@ -167,17 +192,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "304d3cab4474d881",
+  "active": "892e70d5d67da2be",
   "lastOpenFiles": [
-    "Introduction to Linux.md",
+    "Labs/Lab01/Lab01.md",
+    "Labs/Lab01/Lab01_Manual.md",
     "Overview.md",
+    "Labs/Lab01",
+    "Labs/Lab02.md",
+    "Introduction to Linux.md",
     "SAT2711 to Now.md",
     "Labs/Labs_Introduction.md",
     "Homework/Week0.md",
     "Labs/Lab05.md",
-    "Labs/Lab01.md",
     "Labs/Lab03.md",
-    "Labs/Lab02.md",
     "Introduction to ROS.md",
     "Homework/Homework.md",
     "Homework2/Homework2.md",
@@ -198,7 +225,6 @@
     "templates",
     "Labs/Labs.md",
     "Labs",
-    "ee3280.md",
     "Spaces/Home",
     "Spaces",
     "Context/spacesLastSync.log",
