@@ -9,16 +9,11 @@ Password: not_pizza
 In this lab we're going to be working with mainly two specific robots, one being a Turtlebot and the other being a Niryo Ned2 Arm. 
 ## Turtle Bots ##
 ### SSH ###
+username: ubuntu
+password: turtlebot
 ### Lab WiFi ###
 
-| Names | IP Address | MAC Address |
-| -- | -- | -- |
-| bacon | 32.80.100.101 | E4-5F-01-B7-9E-55 |
-| sausage | 32.80.100.102 | E4-5F-01-B7-9E-4B |
-| chicken | 32.80.100.103 | E4-5F-01-B7-9E-87 |
-| onion | 32.80.100.104 | E4-5F-01-B7-9E-84 |
-| ranch | 32.80.100.105 | E4-5F-01-B7-9E-BC |
-
+![[turtlebot_ipchart]]
 ### Ethernet ###
 ## Niryo Ned Arm ##
 ### SSH ###
@@ -27,21 +22,11 @@ password: robotics
 ### Hotspot  ###
 The hotspot name varies for each arm but for the 4 arms that are in this lab, we have the following names:
 
-| Name | Hotspot Name |
-| -- | -- |
-| pepperoni | Niryo Ned Hotspot eb-bd3-cad |
-| mushroom | Niryo Ned Hotspot 89-ec4-b57 |
-| mozzarella | Niryo Ned Hotspot fd-918-6e4 |
-| pineapple |  Niryo Ned Hotspot 5d-a3c-b7f |
+![[niryo_ned_hotspot]]
 
 Password: niryorobot
 IP Address: 10.10.10.10
 ### Lab WiFi ###
-| Name | IP Address |
-| -- | -- |
-| pepperoni | 32.80.100.106 |
-| mushroom | 32.80.100.107 |
-| mozzarella | 32.80.100.108 |
-| pineapple | 32.80.100.109 |
+![[niryo_ned_ipchart]]
 ### Ethernet ###
 IP Address: 169.254.200.201

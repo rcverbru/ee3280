@@ -27,3 +27,6 @@ bash: cd: ee3280/: No such file or directory
 ```
 
 ## 2. Beans##
+Q. What does it mean to source globally and when should you do it?
+
+Q. What does it mean to source locally and when should you do it?
