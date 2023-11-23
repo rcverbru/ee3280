@@ -1,0 +1,22 @@
+{
+  "colorRules": [
+    {
+      "id": "inbox-ffb300",
+      "value": "ee3160",
+      "type": "folder",
+      "color": "#e05252"
+    },
+    {
+      "id": "1694020985736",
+      "value": "ee3171",
+      "type": "folder",
+      "color": "#e0b152"
+    },
+    {
+      "id": "1694021046925",
+      "value": "ee3901",
+      "type": "folder",
+      "color": "#51f089"
+    }
+  ]
+}

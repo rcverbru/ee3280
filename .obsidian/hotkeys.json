@@ -1,0 +1,27 @@
+{
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ],
+  "graph:open-local": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "0"
+    }
+  ],
+  "obsidian-living-graph:toggle": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "0"
+    }
+  ]
+}

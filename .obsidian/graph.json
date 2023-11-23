@@ -1,0 +1,93 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:Classes/ee3160  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Classes/ee3171  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:Classes/ee3901  ",
+      "color": {
+        "a": 1,
+        "rgb": 5369993
+      }
+    },
+    {
+      "query": "path:Classes/meem2700  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711935
+      }
+    },
+    {
+      "query": "path:Classes/ee3280  ",
+      "color": {
+        "a": 1,
+        "rgb": 255
+      }
+    },
+    {
+      "query": "path:\"Daily Notes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:RASL  ",
+      "color": {
+        "a": 1,
+        "rgb": 2201856
+      }
+    },
+    {
+      "query": "path:Excalidraw  ",
+      "color": {
+        "a": 1,
+        "rgb": 16628784
+      }
+    },
+    {
+      "query": "path:daily_notes  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "path:rse  ",
+      "color": {
+        "a": 1,
+        "rgb": 9699328
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 1,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1.45260416666667,
+  "collapse-forces": true,
+  "centerStrength": 0.828125,
+  "repelStrength": 17.5,
+  "linkStrength": 0.895833333333333,
+  "linkDistance": 72,
+  "scale": 0.3003387451171875,
+  "close": false
+}

@@ -1,0 +1,282 @@
+{
+  "main": {
+    "id": "e14c774ad094bc86",
+    "type": "split",
+    "children": [
+      {
+        "id": "469fc5bed1bab66c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8538dfe0e89d493a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Labs/Lab00/Prelab00.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "100deb1ab2026766",
+    "type": "split",
+    "children": [
+      {
+        "id": "e96827105a530a17",
+        "type": "tabs",
+        "dimension": 63.34283000949667,
+        "children": [
+          {
+            "id": "acdef04acd31d973",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6e4a0bbd7c66643f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7572b6a28c844e78",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "df189e2c1dc102d5",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "3930e083d3ea50d3",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "ed9c9cd0201f61f5",
+        "type": "tabs",
+        "dimension": 36.65716999050333,
+        "children": [
+          {
+            "id": "73279d3ce9a21a65",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Labs/Lab00/Prelab00.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.7890625,
+                  "repelStrength": 15.33,
+                  "linkStrength": 0.12,
+                  "linkDistance": 94,
+                  "scale": 0.4444444444444442,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 426.5
+  },
+  "right": {
+    "id": "c06d7612a2e5c9e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d80ef3d64c83e58b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be2b05875d42aa9b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Labs/Lab00/Prelab00.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "42e9d25bfabf271b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Labs/Lab00/Prelab00.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5c23c5a2e0253aab",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "850c705957437b95",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Labs/Lab00/Prelab00.md"
+              }
+            }
+          },
+          {
+            "id": "c8b264659077b736",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "9df1e59529d7353f",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 461.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false,
+      "homepage:Open homepage": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "df189e2c1dc102d5",
+  "lastOpenFiles": [
+    "Labs/Lab00/Lab00_Manual.md",
+    "Labs/Lab00/Lab00.md",
+    "Spaces/Home/Home.md",
+    "fall23_classes/ee3160/class_notes/signals_week12_day2.md",
+    "fall23_classes/ee3160/class_notes/signals_week12_day1.md",
+    "fall23_classes/ee3160/class_notes/signals_week4_day3.md",
+    "fall23_classes/meem2700/dynamics_week10_day2.md",
+    "fall23_classes/meem2700/meem2700.md",
+    "fall23_classes/meem2700/dynamics_week12_day2.md",
+    "fall23_classes/ee3160/class_notes/signals_week12_day3.md",
+    "Home.md",
+    "fall23_classes/ee3160/reading_notes/reading_notes.md",
+    "fall23_classes/ee3171/ee3171.md",
+    "fall23_classes/ee3171/something_scary.md",
+    "fall23_classes/fall23_classes.md",
+    "Excalidraw/fall23/ee_3171/low_drop_out_regulator.md",
+    "fall23_classes/ee3171/serial_communication.md",
+    "fall23_classes/ee3171/i2c.md",
+    "daily_notes/2023-11-14.md",
+    "fall23_classes/meem2700/dynamics_week12_day1.md",
+    "fall23_classes/ee3901/Untitled.md",
+    "fall23_classes/meem2700/dynamics_week11_day3.md",
+    "fall23_classes/ee3171/can.md",
+    "fall23_classes/meem2700/dynamics_week11_day2.md",
+    "fall23_classes/ee3171/timer_functions.md",
+    "fall23_classes/ee3160/class_notes/signals_week11_day2.md",
+    "daily_notes/november_23",
+    "Excalidraw/fall23/ee_3171/rasl_server_request_part2.pdf",
+    "Excalidraw/fall23/ee_3171/spi-connection.png",
+    "Excalidraw/fall23/ee_3171/spi-connection.png.crdownload",
+    "Spaces/Home",
+    "Spaces",
+    "Excalidraw/fall23",
+    "daily_notes/october_23",
+    "Excalidraw/fall23/ee_3171/sample_and_hold.jpg",
+    "Excalidraw/ee3171/sample_and_hold.jpg.crdownload",
+    "Excalidraw/fall23/ee_3171",
+    "Pasted image 20231002091930.png",
+    "daily_notes/august_23",
+    "rse/fall23/perception/Untitled.canvas",
+    "Untitled 1.canvas",
+    "png_exports/Pasted image 20230925140121.png",
+    "png_exports/Pasted image 20230922131951.png",
+    "png_exports/Pasted image 20230915150238.png",
+    "png_exports/Pasted image 20230911131124.png",
+    "png_exports/Pasted image 20230906133811.png",
+    "daily_notes/Pasted image 20230911133551.png",
+    "png_exports/Pasted image 20230911130738.png"
+  ]
+}

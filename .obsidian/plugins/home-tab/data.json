@@ -1,0 +1,49 @@
+{
+  "logoType": "default",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Obsidian",
+  "customFont": "interfaceFont",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showStarredFiles": false,
+  "showRecentFiles": false,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "Labs/Lab00/Prelab00.md",
+      "timestamp": 1700616670320
+    },
+    {
+      "filepath": "Labs/Lab00/Lab00_Manual.md",
+      "timestamp": 1700616669483
+    },
+    {
+      "filepath": "Labs/Lab00/Lab00.md",
+      "timestamp": 1700616668479
+    },
+    {
+      "filepath": "Spaces/Home/Home.md",
+      "timestamp": 1700616561539
+    }
+  ],
+  "starredFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": false,
+  "closePreviousSessionTabs": false,
+  "omnisearch": false
+}
