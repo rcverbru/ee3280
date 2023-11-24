@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Prelab00",
-      "path": "Labs/Lab00/Prelab00.md"
+      "basename": "Lab_Structure",
+      "path": "Labs/Lab_Structure.md"
     },
     {
       "basename": "Lab00_Manual",
       "path": "Labs/Lab00/Lab00_Manual.md"
+    },
+    {
+      "basename": "Prelab00",
+      "path": "Labs/Lab00/Prelab00.md"
     },
     {
       "basename": "Lab00",
@@ -195,10 +199,6 @@
     {
       "basename": "project_ideas",
       "path": "fall23_classes/ee3901/project_ideas.md"
-    },
-    {
-      "basename": "becoming_ethical",
-      "path": "fall23_classes/ee3901/becoming_ethical.md"
     }
   ],
   "omittedPaths": [],

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "469fc5bed1bab66c",
+        "id": "9b8625eb68172312",
         "type": "tabs",
         "children": [
           {
-            "id": "8538dfe0e89d493a",
+            "id": "633416fd6951a525",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Labs/Lab00/Prelab00.md",
+                "file": "Labs/Lab_Structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Labs/Lab00/Prelab00.md",
+                "file": "Labs/Lab_Structure.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Labs/Lab00/Prelab00.md",
+                "file": "Labs/Lab_Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Labs/Lab00/Prelab00.md",
+                "file": "Labs/Lab_Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Labs/Lab00/Prelab00.md"
+                "file": "Labs/Lab_Structure.md"
               }
             }
           },
@@ -225,12 +225,15 @@
       "command-palette:Open command palette": false,
       "omnisearch:Omnisearch": false,
       "homepage:Open homepage": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "sync-google-calendar:Sync Google Calendar": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "df189e2c1dc102d5",
+  "active": "633416fd6951a525",
   "lastOpenFiles": [
     "Labs/Lab00/Lab00_Manual.md",
+    "Labs/Lab00/Prelab00.md",
     "Labs/Lab00/Lab00.md",
     "Spaces/Home/Home.md",
     "fall23_classes/ee3160/class_notes/signals_week12_day2.md",
@@ -255,7 +258,6 @@
     "fall23_classes/ee3171/can.md",
     "fall23_classes/meem2700/dynamics_week11_day2.md",
     "fall23_classes/ee3171/timer_functions.md",
-    "fall23_classes/ee3160/class_notes/signals_week11_day2.md",
     "daily_notes/november_23",
     "Excalidraw/fall23/ee_3171/rasl_server_request_part2.pdf",
     "Excalidraw/fall23/ee_3171/spi-connection.png",

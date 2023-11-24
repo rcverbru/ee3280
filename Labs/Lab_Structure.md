@@ -1,6 +1,9 @@
+Lab00: Installation and setup
+- USB boot drive
+- Virtual Machines
 Lab01: Linux and ROS Basics
-- basic terminal and ros commands
-- building workspace environment
+- Basic terminal and ros commands
+- Building workspace environment
 Lab02: Workspaces, Packages,  and Pub/Sub
 - First full creation of a workspace
 - Introduction of packages
