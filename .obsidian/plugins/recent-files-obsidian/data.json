@@ -1,24 +1,72 @@
 {
   "recentFiles": [
     {
-      "basename": "Lab_Structure",
-      "path": "Labs/Lab_Structure.md"
+      "basename": "lab7_ish",
+      "path": "Labs/lab7_ish.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Spaces/Home/Home.md"
+    },
+    {
+      "basename": "Overview",
+      "path": "Overview.md"
+    },
+    {
+      "basename": "Week4",
+      "path": "Homework/Week4.md"
+    },
+    {
+      "basename": "Week3",
+      "path": "Homework/Week3.md"
+    },
+    {
+      "basename": "Week2",
+      "path": "Homework/Week2.md"
+    },
+    {
+      "basename": "Week1",
+      "path": "Homework/Week1.md"
+    },
+    {
+      "basename": "Week0",
+      "path": "Homework/Week0.md"
+    },
+    {
+      "basename": "lab6_ish",
+      "path": "Labs/lab6_ish.md"
     },
     {
       "basename": "Lab00_Manual",
       "path": "Labs/Lab00/Lab00_Manual.md"
     },
     {
-      "basename": "Prelab00",
-      "path": "Labs/Lab00/Prelab00.md"
+      "basename": "Lab_Structure",
+      "path": "Labs/Lab_Structure.md"
     },
     {
       "basename": "Lab00",
       "path": "Labs/Lab00/Lab00.md"
     },
     {
-      "basename": "Home",
-      "path": "Spaces/Home/Home.md"
+      "basename": "Lab01",
+      "path": "Labs/Lab01/Lab01.md"
+    },
+    {
+      "basename": "Prelab00",
+      "path": "Labs/Lab00/Prelab00.md"
+    },
+    {
+      "basename": "Lab01_Manual",
+      "path": "Labs/Lab01/Lab01_Manual.md"
+    },
+    {
+      "basename": "Lab03",
+      "path": "Labs/Lab03.md"
+    },
+    {
+      "basename": "Labs_Introduction",
+      "path": "Labs/Labs_Introduction.md"
     },
     {
       "basename": "Home",
@@ -151,54 +199,6 @@
     {
       "basename": "time_constant",
       "path": "Excalidraw/fall23/ee_3160/time_constant.md"
-    },
-    {
-      "basename": "subtracting_signals",
-      "path": "Excalidraw/fall23/ee_3160/subtracting_signals.md"
-    },
-    {
-      "basename": "combining_signals_example",
-      "path": "Excalidraw/fall23/ee_3160/combining_signals_example.md"
-    },
-    {
-      "basename": "circuit_for_9-25",
-      "path": "Excalidraw/fall23/ee_3160/circuit_for_9-25.md"
-    },
-    {
-      "basename": "signals_week8_day2",
-      "path": "fall23_classes/ee3160/class_notes/signals_week8_day2.md"
-    },
-    {
-      "basename": "signals_week8_day1",
-      "path": "fall23_classes/ee3160/class_notes/signals_week8_day1.md"
-    },
-    {
-      "basename": "2023-11-07",
-      "path": "daily_notes/november_23/2023-11-07.md"
-    },
-    {
-      "basename": "dynamics_week11_day1",
-      "path": "fall23_classes/meem2700/dynamics_week11_day1.md"
-    },
-    {
-      "basename": "ee3901",
-      "path": "fall23_classes/ee3901/ee3901.md"
-    },
-    {
-      "basename": "ROS_Day_1",
-      "path": "fall23_classes/ee3280/ROS_Day_1.md"
-    },
-    {
-      "basename": "square_signal",
-      "path": "Excalidraw/fall23/ee_3160/square_signal.md"
-    },
-    {
-      "basename": "tf_tree_shenanigans",
-      "path": "fall23_classes/ee3280/tf_tree_shenanigans.md"
-    },
-    {
-      "basename": "project_ideas",
-      "path": "fall23_classes/ee3901/project_ideas.md"
     }
   ],
   "omittedPaths": [],

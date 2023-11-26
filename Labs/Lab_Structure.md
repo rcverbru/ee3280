@@ -1,4 +1,4 @@
-Lab00: Installation and setup
+Lab00: Installation and Setup
 - USB boot drive
 - Virtual Machines
 Lab01: Linux and ROS Basics

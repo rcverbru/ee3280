@@ -20,7 +20,6 @@ roscore
 catkin_make
 ```
 ## Aims ##
-install ros
 set up work environment
 - Directories
 	- Relative vs. Absolute paths

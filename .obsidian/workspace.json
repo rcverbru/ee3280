@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9b8625eb68172312",
+        "id": "8cf84664cdfffdd2",
         "type": "tabs",
         "children": [
           {
-            "id": "633416fd6951a525",
+            "id": "5b589d2b56c54740",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Labs/Lab_Structure.md",
+                "file": "Labs/lab7_ish.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Labs/Lab_Structure.md",
+                "file": "Labs/lab7_ish.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Labs/Lab_Structure.md",
+                "file": "Labs/lab7_ish.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Labs/Lab_Structure.md",
+                "file": "Labs/lab7_ish.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Labs/Lab_Structure.md"
+                "file": "Labs/lab7_ish.md"
               }
             }
           },
@@ -230,12 +230,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "633416fd6951a525",
+  "active": "5b589d2b56c54740",
   "lastOpenFiles": [
-    "Labs/Lab00/Lab00_Manual.md",
-    "Labs/Lab00/Prelab00.md",
-    "Labs/Lab00/Lab00.md",
     "Spaces/Home/Home.md",
+    "Overview.md",
+    "Homework/Week4.md",
+    "Homework/Week3.md",
+    "Homework/Week2.md",
+    "Homework/Week1.md",
+    "Homework/Week0.md",
+    "Labs/lab7_ish.md",
+    "Labs/lab6_ish.md",
+    "Labs/Lab00/Lab00_Manual.md",
+    "Labs/Lab_Structure.md",
+    "Labs/Lab00/Lab00.md",
+    "Labs/Lab01/Lab01.md",
+    "Labs/Lab00/Prelab00.md",
+    "Labs/Lab01/Lab01_Manual.md",
+    "Labs/Lab03.md",
+    "Labs/Labs_Introduction.md",
     "fall23_classes/ee3160/class_notes/signals_week12_day2.md",
     "fall23_classes/ee3160/class_notes/signals_week12_day1.md",
     "fall23_classes/ee3160/class_notes/signals_week4_day3.md",
@@ -245,19 +258,6 @@
     "fall23_classes/ee3160/class_notes/signals_week12_day3.md",
     "Home.md",
     "fall23_classes/ee3160/reading_notes/reading_notes.md",
-    "fall23_classes/ee3171/ee3171.md",
-    "fall23_classes/ee3171/something_scary.md",
-    "fall23_classes/fall23_classes.md",
-    "Excalidraw/fall23/ee_3171/low_drop_out_regulator.md",
-    "fall23_classes/ee3171/serial_communication.md",
-    "fall23_classes/ee3171/i2c.md",
-    "daily_notes/2023-11-14.md",
-    "fall23_classes/meem2700/dynamics_week12_day1.md",
-    "fall23_classes/ee3901/Untitled.md",
-    "fall23_classes/meem2700/dynamics_week11_day3.md",
-    "fall23_classes/ee3171/can.md",
-    "fall23_classes/meem2700/dynamics_week11_day2.md",
-    "fall23_classes/ee3171/timer_functions.md",
     "daily_notes/november_23",
     "Excalidraw/fall23/ee_3171/rasl_server_request_part2.pdf",
     "Excalidraw/fall23/ee_3171/spi-connection.png",
