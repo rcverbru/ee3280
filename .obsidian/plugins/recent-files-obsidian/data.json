@@ -1,12 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "lab7_ish",
-      "path": "Labs/lab7_ish.md"
+      "basename": "Overview",
+      "path": "Overview.md"
     },
     {
       "basename": "turtlebot_setup.sh",
       "path": "code_snipits/turtlebot_setup.sh.md"
+    },
+    {
+      "basename": "lab_template",
+      "path": "templates/lab_template.md"
+    },
+    {
+      "basename": "Introduction to Linux",
+      "path": "Introduction to Linux.md"
+    },
+    {
+      "basename": "Lab01_Manual",
+      "path": "Labs/Lab01/Lab01_Manual.md"
+    },
+    {
+      "basename": "Lab02_Manual",
+      "path": "Labs/Lab02/Lab02_Manual.md"
+    },
+    {
+      "basename": "global_and_local",
+      "path": "code_snipits/global_and_local.md"
+    },
+    {
+      "basename": "Lab02",
+      "path": "Labs/Lab02/Lab02.md"
+    },
+    {
+      "basename": "lab7_ish",
+      "path": "Labs/lab7_ish.md"
+    },
+    {
+      "basename": "turtlebot_ipchart",
+      "path": "templates/turtlebot_ipchart.md"
+    },
+    {
+      "basename": "Lab04",
+      "path": "Labs/Lab04.md"
+    },
+    {
+      "basename": "Lab03",
+      "path": "Labs/Lab03.md"
     },
     {
       "basename": "lab6_ish",
@@ -21,20 +61,12 @@
       "path": "code_snipits/niryo_ned_setup.sh.md"
     },
     {
-      "basename": "Lab03",
-      "path": "Labs/Lab03.md"
-    },
-    {
       "basename": "Labs",
       "path": "Labs/Labs.md"
     },
     {
       "basename": "Labs_Introduction",
       "path": "Labs/Labs_Introduction.md"
-    },
-    {
-      "basename": "Overview",
-      "path": "Overview.md"
     },
     {
       "basename": "Lab00_note",
@@ -79,10 +111,6 @@
     {
       "basename": "Lab01",
       "path": "Labs/Lab01/Lab01.md"
-    },
-    {
-      "basename": "Lab01_Manual",
-      "path": "Labs/Lab01/Lab01_Manual.md"
     },
     {
       "basename": "Home",
@@ -171,34 +199,6 @@
     {
       "basename": "signals_week11_day2",
       "path": "fall23_classes/ee3160/class_notes/signals_week11_day2.md"
-    },
-    {
-      "basename": "dynamics_week10_day1",
-      "path": "fall23_classes/meem2700/dynamics_week10_day1.md"
-    },
-    {
-      "basename": "RASL",
-      "path": "RASL/RASL.md"
-    },
-    {
-      "basename": "Excalidraw",
-      "path": "Excalidraw/Excalidraw.md"
-    },
-    {
-      "basename": "fall23",
-      "path": "Excalidraw/fall23/fall23.md"
-    },
-    {
-      "basename": "daily_notes",
-      "path": "daily_notes/daily_notes.md"
-    },
-    {
-      "basename": "november_23",
-      "path": "daily_notes/november_23/november_23.md"
-    },
-    {
-      "basename": "class_notes",
-      "path": "fall23_classes/ee3160/class_notes/class_notes.md"
     }
   ],
   "omittedPaths": [],

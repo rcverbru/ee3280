@@ -10,3 +10,4 @@ export
 ```
 ## Aims ##
 Connect to turtlebots and pass topics back and forth
+Connect to a partners ros and run talker/listener
