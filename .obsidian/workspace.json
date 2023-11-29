@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "37ffdc909be34424",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "code_snipits/turtlebot_setup.sh.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -232,32 +244,34 @@
   },
   "active": "5b589d2b56c54740",
   "lastOpenFiles": [
-    "Spaces/Home/Home.md",
+    "code_snipits/turtlebot_setup.sh.md",
+    "Labs/lab6_ish.md",
+    "Labs/lab7_ish.md",
+    "Labs/lab7",
+    "Labs/lab7.html",
+    "Labs/Lab07.md",
+    "code_snipits/niryo_ned_setup.sh.md",
+    "Labs/Lab03.md",
+    "Labs/Labs.md",
+    "code_snipits/code_snipits.md",
+    "code_snipits",
+    "Labs/Labs_Introduction.md",
     "Overview.md",
+    "Labs/Lab00/Lab00_note.md",
+    "Labs/Lab00/Untitled.md",
+    "Spaces/Home/Home.md",
     "Homework/Week4.md",
     "Homework/Week3.md",
     "Homework/Week2.md",
     "Homework/Week1.md",
     "Homework/Week0.md",
-    "Labs/lab7_ish.md",
-    "Labs/lab6_ish.md",
     "Labs/Lab00/Lab00_Manual.md",
     "Labs/Lab_Structure.md",
     "Labs/Lab00/Lab00.md",
     "Labs/Lab01/Lab01.md",
-    "Labs/Lab00/Prelab00.md",
     "Labs/Lab01/Lab01_Manual.md",
-    "Labs/Lab03.md",
-    "Labs/Labs_Introduction.md",
     "fall23_classes/ee3160/class_notes/signals_week12_day2.md",
     "fall23_classes/ee3160/class_notes/signals_week12_day1.md",
-    "fall23_classes/ee3160/class_notes/signals_week4_day3.md",
-    "fall23_classes/meem2700/dynamics_week10_day2.md",
-    "fall23_classes/meem2700/meem2700.md",
-    "fall23_classes/meem2700/dynamics_week12_day2.md",
-    "fall23_classes/ee3160/class_notes/signals_week12_day3.md",
-    "Home.md",
-    "fall23_classes/ee3160/reading_notes/reading_notes.md",
     "daily_notes/november_23",
     "Excalidraw/fall23/ee_3171/rasl_server_request_part2.pdf",
     "Excalidraw/fall23/ee_3171/spi-connection.png",
@@ -267,10 +281,7 @@
     "Excalidraw/fall23",
     "daily_notes/october_23",
     "Excalidraw/fall23/ee_3171/sample_and_hold.jpg",
-    "Excalidraw/ee3171/sample_and_hold.jpg.crdownload",
-    "Excalidraw/fall23/ee_3171",
     "Pasted image 20231002091930.png",
-    "daily_notes/august_23",
     "rse/fall23/perception/Untitled.canvas",
     "Untitled 1.canvas",
     "png_exports/Pasted image 20230925140121.png",

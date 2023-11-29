@@ -604,7 +604,8 @@ var DEFAULT_SETTINGS = {
 };
 var DEFAULT_EXTRA_SETTINGS = {
   foldDefault: "",
-  noteTitleInLink: true,
+  noteTitleInTheoremLink: true,
+  noteTitleInEquationLink: true,
   profiles: DEFAULT_PROFILES,
   showTheoremTitleinBuiltin: true,
   renderEquationinBuiltin: true,
@@ -1304,7 +1305,8 @@ var ExtraSettingsHelper = class extends SettingsHelper {
       },
       this.defaultSettings.foldDefault
     );
-    this.addToggleSetting("noteTitleInLink", "Show note title at link's head", 'If turned on, a link to "Theorem 1" will look like "Note title > Theorem 1." The same applies to equations.');
+    this.addToggleSetting("noteTitleInTheoremLink", "Show the note title at the head of a link to a theorem", 'If turned on, a link to "Theorem 1" will look like "Note title > Theorem 1".');
+    this.addToggleSetting("noteTitleInEquationLink", "Show the note title at the head of a link to an equation", 'If turned on, a link to "Eq.(1)" will look like "Note title > Eq.(1)".');
     this.addToggleSetting("excludeExampleCallout", `Don't treat "> [!example]" as a theorem callout`, `If turned on, a callout of the form "> [!example]" will be treated as Obsidian's built-in "Example" callout, and you will need to type "> [!exm]" instead to insert a theorem callout of "Example" type.`);
     this.addToggleSetting("showTheoremCalloutEditButton", "Show an edit button on a theorem callout");
     this.addToggleSetting("setOnlyTheoremAsMain", "If a note has only one theorem callout, automatically set it as main", `Regardless of this setting, putting "%% main %%" or "%% main: true %%" in a theorem callout will set it as main one of the note, which means any link to that note will be displayed with the theorem's title. Enabling this option implicitly sets a theorem callout as main when it's the only one in the note.`);
@@ -2618,9 +2620,13 @@ var MathSettingTab = class extends import_obsidian14.PluginSettingTab {
       extraHelper.settingRefs.setLabelInModal.settingEl,
       globalHelper.settingRefs.labelPrefix.settingEl
     );
-    this.containerEl.insertBefore(
-      extraHelper.settingRefs.noteTitleInLink.settingEl,
-      globalHelper.settingRefs.noteMathLinkFormat.settingEl
+    this.containerEl.insertAfter(
+      extraHelper.settingRefs.noteTitleInTheoremLink.settingEl,
+      globalHelper.settingRefs.refFormat.settingEl
+    );
+    this.containerEl.insertAfter(
+      extraHelper.settingRefs.noteTitleInEquationLink.settingEl,
+      globalHelper.settingRefs.eqRefSuffix.settingEl
     );
     this.containerEl.insertBefore(
       globalHelper.settingRefs.insertSpace.settingEl,
@@ -2650,6 +2656,7 @@ var MathSettingTab = class extends import_obsidian14.PluginSettingTab {
 var CleverefProvider = class extends Provider {
   constructor(mathLinks, plugin) {
     super(mathLinks);
+    this.plugin = plugin;
     this.app = plugin.app;
     this.index = plugin.indexManager.index;
   }
@@ -2670,9 +2677,9 @@ var CleverefProvider = class extends Provider {
       const block = page.$blocks.get(targetSubpathResult.block.id);
       if (MathBoosterBlock.isMathBoosterBlock(block)) {
         if (block.$display)
-          return path ? processedPath + " > " + block.$display : block.$display;
+          return path && this.shouldShowNoteTitle(block) ? processedPath + " > " + block.$display : block.$display;
         if (block.$refName)
-          return path ? processedPath + " > " + block.$refName : block.$refName;
+          return path && this.shouldShowNoteTitle(block) ? processedPath + " > " + block.$refName : block.$refName;
       }
     } else {
       if (path && page.$refName) {
@@ -2680,6 +2687,13 @@ var CleverefProvider = class extends Provider {
       }
     }
     return null;
+  }
+  shouldShowNoteTitle(block) {
+    if (TheoremCalloutBlock.isTheoremCalloutBlock(block))
+      return this.plugin.extraSettings.noteTitleInTheoremLink;
+    if (EquationBlock.isEquationBlock(block))
+      return this.plugin.extraSettings.noteTitleInEquationLink;
+    return true;
   }
 };
 

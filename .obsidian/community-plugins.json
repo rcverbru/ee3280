@@ -23,5 +23,6 @@
   "obsidian-latex-suite",
   "templater-obsidian",
   "obsidian-mind-map",
-  "obsidian-living-graph"
+  "obsidian-living-graph",
+  "obsidian-pandoc"
 ]

@@ -23,5 +23,14 @@
       ],
       "key": "0"
     }
+  ],
+  "obsidian-pandoc:pandoc-export-pdf": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Numpad9"
+    }
   ]
 }

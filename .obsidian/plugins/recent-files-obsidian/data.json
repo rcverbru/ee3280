@@ -5,12 +5,44 @@
       "path": "Labs/lab7_ish.md"
     },
     {
-      "basename": "Home",
-      "path": "Spaces/Home/Home.md"
+      "basename": "turtlebot_setup.sh",
+      "path": "code_snipits/turtlebot_setup.sh.md"
+    },
+    {
+      "basename": "lab6_ish",
+      "path": "Labs/lab6_ish.md"
+    },
+    {
+      "basename": "Lab07",
+      "path": "Labs/Lab07.md"
+    },
+    {
+      "basename": "niryo_ned_setup.sh",
+      "path": "code_snipits/niryo_ned_setup.sh.md"
+    },
+    {
+      "basename": "Lab03",
+      "path": "Labs/Lab03.md"
+    },
+    {
+      "basename": "Labs",
+      "path": "Labs/Labs.md"
+    },
+    {
+      "basename": "Labs_Introduction",
+      "path": "Labs/Labs_Introduction.md"
     },
     {
       "basename": "Overview",
       "path": "Overview.md"
+    },
+    {
+      "basename": "Lab00_note",
+      "path": "Labs/Lab00/Lab00_note.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Spaces/Home/Home.md"
     },
     {
       "basename": "Week4",
@@ -33,10 +65,6 @@
       "path": "Homework/Week0.md"
     },
     {
-      "basename": "lab6_ish",
-      "path": "Labs/lab6_ish.md"
-    },
-    {
       "basename": "Lab00_Manual",
       "path": "Labs/Lab00/Lab00_Manual.md"
     },
@@ -53,20 +81,8 @@
       "path": "Labs/Lab01/Lab01.md"
     },
     {
-      "basename": "Prelab00",
-      "path": "Labs/Lab00/Prelab00.md"
-    },
-    {
       "basename": "Lab01_Manual",
       "path": "Labs/Lab01/Lab01_Manual.md"
-    },
-    {
-      "basename": "Lab03",
-      "path": "Labs/Lab03.md"
-    },
-    {
-      "basename": "Labs_Introduction",
-      "path": "Labs/Labs_Introduction.md"
     },
     {
       "basename": "Home",
@@ -183,22 +199,6 @@
     {
       "basename": "class_notes",
       "path": "fall23_classes/ee3160/class_notes/class_notes.md"
-    },
-    {
-      "basename": "ee3160",
-      "path": "fall23_classes/ee3160/ee3160.md"
-    },
-    {
-      "basename": "assembly_introduction_day_2",
-      "path": "fall23_classes/ee3171/assembly_introduction_day_2.md"
-    },
-    {
-      "basename": "poles",
-      "path": "Excalidraw/fall23/ee_3160/poles.md"
-    },
-    {
-      "basename": "time_constant",
-      "path": "Excalidraw/fall23/ee_3160/time_constant.md"
     }
   ],
   "omittedPaths": [],

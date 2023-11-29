@@ -47,7 +47,8 @@
     "//fall23_classes/fall23_classes/ee3160",
     "//fall23_classes/fall23_classes/ee3160/fall23_classes/ee3160/class_notes",
     "//fall23_classes/fall23_classes/meem2700",
-    "//Labs"
+    "//Labs",
+    "//code_snipits"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -76,7 +77,8 @@
   ],
   "rootSpaces": [
     "Spaces/Home",
-    "daily_notes/november_23"
+    "daily_notes/november_23",
+    "code_snipits"
   ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",
