@@ -5,6 +5,18 @@
       "path": "Overview.md"
     },
     {
+      "basename": "lab7_ish",
+      "path": "Labs/lab7_ish.md"
+    },
+    {
+      "basename": "lab6_ish",
+      "path": "Labs/lab6_ish.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Spaces/Home/Home.md"
+    },
+    {
       "basename": "turtlebot_setup.sh",
       "path": "code_snipits/turtlebot_setup.sh.md"
     },
@@ -33,10 +45,6 @@
       "path": "Labs/Lab02/Lab02.md"
     },
     {
-      "basename": "lab7_ish",
-      "path": "Labs/lab7_ish.md"
-    },
-    {
       "basename": "turtlebot_ipchart",
       "path": "templates/turtlebot_ipchart.md"
     },
@@ -47,10 +55,6 @@
     {
       "basename": "Lab03",
       "path": "Labs/Lab03.md"
-    },
-    {
-      "basename": "lab6_ish",
-      "path": "Labs/lab6_ish.md"
     },
     {
       "basename": "Lab07",
@@ -71,10 +75,6 @@
     {
       "basename": "Lab00_note",
       "path": "Labs/Lab00/Lab00_note.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Spaces/Home/Home.md"
     },
     {
       "basename": "Week4",

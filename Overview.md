@@ -1,3 +1,6 @@
+![[ros_header.png | 500]]
+# __EE3280__ - Introduction to Robot Operating System #
+Professor: Dr. Shane Oberloier
 # Welcome to Ryan and Erik's Starting Guide to ROS #
 Throughout these sets of files we're going to try and organize an entry level approach to ROS, Linux, and software development so as to provide a better understanding of each topic. Half the problem with approaching something like ROS is that in order to understand how to use it, one needs to understand a larger portion of the idea and the workings within the whole thing. So don't too concerned with not understanding all of this in your first go around. Things take time and the main goal of this course is to get your feet wet before you head out into industry to work with many of the same topics discussed here.
 # Side notes #
