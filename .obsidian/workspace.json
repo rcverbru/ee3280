@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Overview.md",
+                "file": "Labs/Lab00/Lab00_note.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Overview.md",
+                "file": "Labs/Lab00/Lab00_note.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Overview.md",
+                "file": "Labs/Lab00/Lab00_note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Overview.md",
+                "file": "Labs/Lab00/Lab00_note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Overview.md"
+                "file": "Labs/Lab00/Lab00_note.md"
               }
             }
           },
@@ -232,12 +232,12 @@
   },
   "active": "3da589482fa4e5e0",
   "lastOpenFiles": [
+    "Labs/lab7_ish.md",
+    "Overview.md",
     "images/ros_header.png",
     "images/ros_header.png.crdownload",
     "images",
-    "Labs/lab7_ish.md",
     "Labs/lab6_ish.md",
-    "Overview.md",
     "Spaces/Home/Home.md",
     "code_snipits/turtlebot_setup.sh.md",
     "templates/lab_template.md",
@@ -278,7 +278,6 @@
     "png_exports/Pasted image 20230915150238.png",
     "png_exports/Pasted image 20230911131124.png",
     "png_exports/Pasted image 20230906133811.png",
-    "daily_notes/Pasted image 20230911133551.png",
-    "png_exports/Pasted image 20230911130738.png"
+    "daily_notes/Pasted image 20230911133551.png"
   ]
 }

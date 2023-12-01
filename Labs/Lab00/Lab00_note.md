@@ -8,8 +8,13 @@ My minimum requirements for this drive is to be at least USB 3.1 and a minimum s
 Minimum Suggested: [Samsung 64GB USB 3.1 Flashdrive](https://a.co/d/hpWlA4b)
 
 If you're looking for a good middle ground, my suggestion would be a 128gb drive with USB 3.2 and a read/write speed of 400mbs or more. A drive similar to this will give you the best experience in comparison to a standard build on a computer.
+
 The one I originally started on: [PNY 128 GB USB 3.2 Flashdrive](https://a.co/d/gvVDrZZ)
+(This one should be at Wallmart which is where I got it a year ago)
 
 My second request is that you bring a second but smaller drive that we can use for installation purposes. This drive doesn't need to be too much more than 16gb and once we use it you can go back to using it for daily files.
 
 Please bring both of these drives for the day of your lab section. Although the suggested are linked to amazon, there are many options in Walmart available if needed. 
+
+See you all next week!
+ -Ryan

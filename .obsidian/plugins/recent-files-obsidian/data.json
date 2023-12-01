@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Overview",
-      "path": "Overview.md"
+      "basename": "Lab00_note",
+      "path": "Labs/Lab00/Lab00_note.md"
     },
     {
       "basename": "lab7_ish",
       "path": "Labs/lab7_ish.md"
+    },
+    {
+      "basename": "Overview",
+      "path": "Overview.md"
     },
     {
       "basename": "lab6_ish",
@@ -71,10 +75,6 @@
     {
       "basename": "Labs_Introduction",
       "path": "Labs/Labs_Introduction.md"
-    },
-    {
-      "basename": "Lab00_note",
-      "path": "Labs/Lab00/Lab00_note.md"
     },
     {
       "basename": "Week4",

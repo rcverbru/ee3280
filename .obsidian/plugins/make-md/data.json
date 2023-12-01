@@ -51,7 +51,7 @@
     "//code_snipits",
     "//Labs/Labs/Lab02",
     "//Labs/Labs/Lab01",
-    "//templates"
+    "//Labs/Labs/Lab00"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
