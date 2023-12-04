@@ -3395,6 +3395,8 @@ function createEquationNumberPlugin(plugin) {
     }
     updateFile(state) {
       this.file = state.field(import_obsidian21.editorInfoField).file;
+      if (this.file)
+        this.settings = resolveSettings(void 0, plugin, this.file);
     }
     async updatePage(file) {
       const page = index.load(file.path);
@@ -3421,8 +3423,13 @@ function createEquationNumberPlugin(plugin) {
       }
     }
     async updateEquationNumber(view, page) {
+      var _a, _b;
       const mjxContainerElements = view.contentDOM.querySelectorAll(':scope > .cm-embed-block.math > mjx-container.MathJax[display="true"]');
       for (const mjxContainerEl of mjxContainerElements) {
+        const mightBeClosingDollars = (_b = (_a = mjxContainerEl.parentElement) == null ? void 0 : _a.previousElementSibling) == null ? void 0 : _b.lastElementChild;
+        const isBeingEdited = mightBeClosingDollars == null ? void 0 : mightBeClosingDollars.matches("span.cm-formatting-math-end");
+        if (isBeingEdited)
+          continue;
         const pos = view.posAtDOM(mjxContainerEl);
         let block;
         try {
@@ -4764,9 +4771,9 @@ To fully enjoy Math Booster v2, click the button below to convert the old theore
 -   New indexing mechanism:
     -   no longer blocks UI
     -   no longer hard-codes theorem indices in notes directly
--   [Enhancing Obsidian's built-in link completion](https://ryotaushio.github.io/obsidian-math-booster/search-&-link-auto-completion/enhancing-obsidian's-built-in-link-completion.html): now equations are rendered in the built-in completion as well.
--   [Custom link completion](https://ryotaushio.github.io/obsidian-math-booster/search-&-link-auto-completion/custom-link-completion.html) improvements: filter theorems & equations (*entire vault/recent notes/active note*)
--   [Search modal](https://ryotaushio.github.io/obsidian-math-booster/search-&-link-auto-completion/search-modal.html): more control & flexibility than editor auto-completion, including *Dataview queries*
+-   [Enhancing Obsidian's built-in link autocomplete](https://ryotaushio.github.io/obsidian-math-booster/search-&-link-autocomplete/enhancing-obsidian's-built-in-link-autocomplete.html): now equations are rendered in the built-in autocomplete as well.
+-   [Custom link autocomplete](https://ryotaushio.github.io/obsidian-math-booster/search-&-link-autocomplete/custom-link-autocomplete.html) improvements: filter theorems & equations (*entire vault/recent notes/active note*)
+-   [Search modal](https://ryotaushio.github.io/obsidian-math-booster/search-&-link-autocomplete/search-modal.html): more control & flexibility than editor autocomplete, including *Dataview queries*
 -   Adding metadata to [theorems](https://ryotaushio.github.io/obsidian-math-booster/theorem-callouts/theorem-callouts.html) and [equations](https://ryotaushio.github.io/obsidian-math-booster/equations.html) with comments
 - Theorem numbers and [equation numbers](https://ryotaushio.github.io/obsidian-math-booster/equations.html) now can be displayed *almost everywhere*:
         
@@ -5412,7 +5419,11 @@ var createProofDecoration = (plugin) => import_view4.ViewPlugin.fromClass(
     }
     update(update2) {
       if (update2.docChanged || update2.viewportChanged || update2.selectionSet) {
-        this.decorations = this.makeDeco(update2.view);
+        if (update2.view.composing) {
+          this.decorations = this.decorations.map(update2.changes);
+        } else {
+          this.decorations = this.makeDeco(update2.view);
+        }
       }
     }
     makeDeco(view) {

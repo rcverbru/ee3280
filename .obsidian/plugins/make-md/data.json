@@ -48,10 +48,11 @@
     "//fall23_classes/fall23_classes/ee3160/fall23_classes/ee3160/class_notes",
     "//fall23_classes/fall23_classes/meem2700",
     "//Labs",
-    "//code_snipits",
     "//Labs/Labs/Lab02",
     "//Labs/Labs/Lab01",
-    "//Labs/Labs/Lab00"
+    "//Labs/Labs/Lab00",
+    "//templates",
+    "//code_snipits"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

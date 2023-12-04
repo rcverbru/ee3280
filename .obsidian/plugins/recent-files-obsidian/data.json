@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Lab00_Manual",
+      "path": "Labs/Lab00/Lab00_Manual.md"
+    },
+    {
+      "basename": "Lab_Structure",
+      "path": "Labs/Lab_Structure.md"
+    },
+    {
       "basename": "Lab00_note",
       "path": "Labs/Lab00/Lab00_note.md"
     },
@@ -9,12 +17,16 @@
       "path": "Labs/lab7_ish.md"
     },
     {
-      "basename": "Overview",
-      "path": "Overview.md"
-    },
-    {
       "basename": "lab6_ish",
       "path": "Labs/lab6_ish.md"
+    },
+    {
+      "basename": "turtlebot_ipchart",
+      "path": "templates/turtlebot_ipchart.md"
+    },
+    {
+      "basename": "Overview",
+      "path": "Overview.md"
     },
     {
       "basename": "Home",
@@ -47,10 +59,6 @@
     {
       "basename": "Lab02",
       "path": "Labs/Lab02/Lab02.md"
-    },
-    {
-      "basename": "turtlebot_ipchart",
-      "path": "templates/turtlebot_ipchart.md"
     },
     {
       "basename": "Lab04",
@@ -95,14 +103,6 @@
     {
       "basename": "Week0",
       "path": "Homework/Week0.md"
-    },
-    {
-      "basename": "Lab00_Manual",
-      "path": "Labs/Lab00/Lab00_Manual.md"
-    },
-    {
-      "basename": "Lab_Structure",
-      "path": "Labs/Lab_Structure.md"
     },
     {
       "basename": "Lab00",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Labs/Lab00/Lab00_note.md",
+                "file": "Labs/Lab00/Lab00_Manual.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Labs/Lab00/Lab00_note.md",
+                "file": "Labs/Lab00/Lab00_Manual.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Labs/Lab00/Lab00_note.md",
+                "file": "Labs/Lab00/Lab00_Manual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Labs/Lab00/Lab00_note.md",
+                "file": "Labs/Lab00/Lab00_Manual.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Labs/Lab00/Lab00_note.md"
+                "file": "Labs/Lab00/Lab00_Manual.md"
               }
             }
           },
@@ -200,15 +200,15 @@
             }
           },
           {
-            "id": "9df1e59529d7353f",
+            "id": "d7c7a70fdc5c9163",
             "type": "leaf",
             "state": {
-              "type": "mermaid-toolbar-view",
+              "type": "calendar",
               "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -225,19 +225,23 @@
       "command-palette:Open command palette": false,
       "omnisearch:Omnisearch": false,
       "homepage:Open homepage": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
       "sync-google-calendar:Sync Google Calendar": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
       "templater-obsidian:Templater": false
     }
   },
   "active": "3da589482fa4e5e0",
   "lastOpenFiles": [
+    "Labs/Lab_Structure.md",
+    "Labs/Lab00/Lab00_Manual.md",
+    "Labs/Lab00/Lab00_note.md",
     "Labs/lab7_ish.md",
+    "Labs/lab6_ish.md",
+    "templates/turtlebot_ipchart.md",
     "Overview.md",
     "images/ros_header.png",
     "images/ros_header.png.crdownload",
     "images",
-    "Labs/lab6_ish.md",
     "Spaces/Home/Home.md",
     "code_snipits/turtlebot_setup.sh.md",
     "templates/lab_template.md",
@@ -246,7 +250,6 @@
     "Labs/Lab02/Lab02_Manual.md",
     "code_snipits/global_and_local.md",
     "Labs/Lab02/Lab02.md",
-    "templates/turtlebot_ipchart.md",
     "Labs/Lab04.md",
     "Labs/Lab03.md",
     "Labs/lab7",
@@ -257,12 +260,10 @@
     "code_snipits/code_snipits.md",
     "code_snipits",
     "Labs/Labs_Introduction.md",
-    "Labs/Lab00/Lab00_note.md",
     "Labs/Lab00/Untitled.md",
     "Homework/Week4.md",
     "Homework/Week3.md",
     "Homework/Week2.md",
-    "Homework/Week1.md",
     "daily_notes/november_23",
     "Excalidraw/fall23/ee_3171/rasl_server_request_part2.pdf",
     "Excalidraw/fall23/ee_3171/spi-connection.png",
