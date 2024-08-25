@@ -12,7 +12,7 @@ When you run the previous command again, you should receive the following error 
 `mkdir: cannot create directory ‘ee3280’: File exists`
 As stated in the error, the directory already exists and can't be re-created. This is one of the many examples of errors that you'll probably run into while working with Linux and ROS. Make sure to read through the errors you get as many of the responses will provide ways to solve them.
 
-Now comes the next two most important commands to know. These should be your go to whenever you approach a terminal. Lets begin with `cd` or "change directory." Now this is going to be very surprising but this command changes your location in your terminal to the input directory. Lets test it out:
+Now comes the next two most important commands to know. These should be your go to whenever you approach a terminal. Lets begin with `cd` or "change directory." Now I'm sure this is going to be very surprising, but this command changes your location in your terminal to the input directory. Lets test it out:
 ```
 cd ee3280
 ```
@@ -22,11 +22,17 @@ After running this command you should notice two things,
 
 __1.1.1__ Q. Why might you receive the following error?
 ```
-rcv@Hashbrown:~$ cd ee3280/
+rcv@Hashbrown:~/ee3280$ cd ee3280/
 bash: cd: ee3280/: No such file or directory
 ```
 
-## 2. Beans##
+As for the second most important command to know, we're going to need to move up one directory. Now there's multiple different ways you can do this. 
+
+## 2. Directory Structure ##
+Now that we have a beginning directory we can start looking at the structure and how to navigate through workspaces.
+
+## 3. Beans ##
+Now that we have our main directory tree setup let's start looking at how ROS will interface with our system. 
 ![[global_and_local]]
 Q. What does it mean to source globally and when should you do it?
 

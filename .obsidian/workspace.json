@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8cf84664cdfffdd2",
+        "id": "1645b3c4c6f29b47",
         "type": "tabs",
         "children": [
           {
-            "id": "3da589482fa4e5e0",
+            "id": "95a332801b55ec61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Labs/Lab00/Lab00_Manual.md",
+                "file": "Labs/Lab03/Lab03_Manual.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,15 +75,23 @@
             }
           },
           {
-            "id": "3930e083d3ea50d3",
+            "id": "738957b3c1e836fa",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
               "state": {}
             }
+          },
+          {
+            "id": "637b178e67fe4f06",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "ed9c9cd0201f61f5",
@@ -96,7 +104,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Labs/Lab00/Lab00_Manual.md",
+                "file": "Labs/Lab03/Lab03_Manual.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -145,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Labs/Lab00/Lab00_Manual.md",
+                "file": "Labs/Lab03/Lab03_Manual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Labs/Lab00/Lab00_Manual.md",
+                "file": "Labs/Lab03/Lab03_Manual.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Labs/Lab00/Lab00_Manual.md"
+                "file": "Labs/Lab03/Lab03_Manual.md"
               }
             }
           },
@@ -195,16 +203,10 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
-            }
-          },
-          {
-            "id": "d7c7a70fdc5c9163",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           }
         ],
@@ -220,56 +222,54 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "omnisearch:Omnisearch": false,
-      "homepage:Open homepage": false,
-      "sync-google-calendar:Sync Google Calendar": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "templater-obsidian:Templater": false
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "3da589482fa4e5e0",
+  "active": "95a332801b55ec61",
   "lastOpenFiles": [
-    "Labs/Lab_Structure.md",
+    "Labs/Lab02/Lab02_Manual.md",
+    "Labs/Lab01/Lab01_Manual.md",
+    "Spaces/Home/Home.md",
     "Labs/Lab00/Lab00_Manual.md",
+    "Labs/Lab01/Lab01_Answers.md",
+    "ROS Structure.md",
+    "Labs/Lab03/Lab03_Manual.md",
     "Labs/Lab00/Lab00_note.md",
-    "Labs/lab7_ish.md",
-    "Labs/lab6_ish.md",
-    "templates/turtlebot_ipchart.md",
-    "Overview.md",
+    "Labs/Lab02/Lab02.md",
+    "Labs/Lab_Structure.md",
+    "Labs/Lab08/Lab08.md",
+    "Spaces/Home/README.md",
+    "Vault.md",
+    "Labs/Lab03.md",
+    "Labs/Lab03/Lab03.md",
+    "Labs/Lab03",
+    "Labs/Lab04.md",
+    "Labs/Lab04/Lab04.md",
+    "Labs/Lab04",
+    "Labs/Lab05.md",
+    "Labs/Lab06.md",
+    "Labs/Lab07.md",
+    "Labs/Lab08.md",
+    "Labs/Lab08",
+    "Labs/Lab09/Lab09.md",
+    "Labs/Lab09",
+    "Labs/Lab10/Lab10.md",
+    "Labs/Lab10",
+    "Labs/Lab00/Lab00_Manual.pdf",
+    "Labs/Lab01/Lab01.md",
+    "Labs/Lab00/Lab00.md",
+    "Labs/Labs.md",
     "images/ros_header.png",
     "images/ros_header.png.crdownload",
     "images",
-    "Spaces/Home/Home.md",
-    "code_snipits/turtlebot_setup.sh.md",
-    "templates/lab_template.md",
-    "Introduction to Linux.md",
-    "Labs/Lab01/Lab01_Manual.md",
-    "Labs/Lab02/Lab02_Manual.md",
-    "code_snipits/global_and_local.md",
-    "Labs/Lab02/Lab02.md",
-    "Labs/Lab04.md",
-    "Labs/Lab03.md",
     "Labs/lab7",
     "Labs/lab7.html",
-    "Labs/Lab07.md",
-    "code_snipits/niryo_ned_setup.sh.md",
-    "Labs/Labs.md",
-    "code_snipits/code_snipits.md",
-    "code_snipits",
-    "Labs/Labs_Introduction.md",
-    "Labs/Lab00/Untitled.md",
-    "Homework/Week4.md",
-    "Homework/Week3.md",
-    "Homework/Week2.md",
-    "daily_notes/november_23",
-    "Excalidraw/fall23/ee_3171/rasl_server_request_part2.pdf",
     "Excalidraw/fall23/ee_3171/spi-connection.png",
-    "Excalidraw/fall23/ee_3171/spi-connection.png.crdownload",
-    "Spaces/Home",
-    "Spaces",
     "Excalidraw/fall23/ee_3171/sample_and_hold.jpg",
     "Pasted image 20231002091930.png",
     "rse/fall23/perception/Untitled.canvas",

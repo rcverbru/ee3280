@@ -13,9 +13,9 @@ Lab03: Visualization
 - Gazebo
 Lab04: Connection between devices
 - 
-Lab05: 
+Lab05: PID Line Follower
 - 
-Lab06:
+Lab06: CMakeLists.txt
 - 
 Lab07: 
 - 

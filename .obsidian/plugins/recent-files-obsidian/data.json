@@ -1,20 +1,92 @@
 {
   "recentFiles": [
     {
+      "basename": "Lab03_Manual",
+      "path": "Labs/Lab03/Lab03_Manual.md"
+    },
+    {
+      "basename": "Lab02_Manual",
+      "path": "Labs/Lab02/Lab02_Manual.md"
+    },
+    {
+      "basename": "Lab01_Manual",
+      "path": "Labs/Lab01/Lab01_Manual.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Spaces/Home/Home.md"
+    },
+    {
       "basename": "Lab00_Manual",
       "path": "Labs/Lab00/Lab00_Manual.md"
     },
     {
-      "basename": "Lab_Structure",
-      "path": "Labs/Lab_Structure.md"
+      "basename": "Lab01_Answers",
+      "path": "Labs/Lab01/Lab01_Answers.md"
+    },
+    {
+      "basename": "ROS Structure",
+      "path": "ROS Structure.md"
     },
     {
       "basename": "Lab00_note",
       "path": "Labs/Lab00/Lab00_note.md"
     },
     {
+      "basename": "Lab02",
+      "path": "Labs/Lab02/Lab02.md"
+    },
+    {
+      "basename": "Lab_Structure",
+      "path": "Labs/Lab_Structure.md"
+    },
+    {
+      "basename": "Lab08",
+      "path": "Labs/Lab08/Lab08.md"
+    },
+    {
+      "basename": "README",
+      "path": "Spaces/Home/README.md"
+    },
+    {
+      "basename": "Lab01",
+      "path": "Labs/Lab01/Lab01.md"
+    },
+    {
+      "basename": "Lab00",
+      "path": "Labs/Lab00/Lab00.md"
+    },
+    {
+      "basename": "Labs",
+      "path": "Labs/Labs.md"
+    },
+    {
+      "basename": "Labs_Introduction",
+      "path": "Labs/Labs_Introduction.md"
+    },
+    {
       "basename": "lab7_ish",
       "path": "Labs/lab7_ish.md"
+    },
+    {
+      "basename": "ros_header",
+      "path": "images/ros_header.png"
+    },
+    {
+      "basename": "Introduction to ROS",
+      "path": "Introduction to ROS.md"
+    },
+    {
+      "basename": "Introduction to Linux",
+      "path": "Introduction to Linux.md"
+    },
+    {
+      "basename": "SAT2711 to Now",
+      "path": "SAT2711 to Now.md"
+    },
+    {
+      "basename": "Overview",
+      "path": "Overview.md"
     },
     {
       "basename": "lab6_ish",
@@ -25,14 +97,6 @@
       "path": "templates/turtlebot_ipchart.md"
     },
     {
-      "basename": "Overview",
-      "path": "Overview.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Spaces/Home/Home.md"
-    },
-    {
       "basename": "turtlebot_setup.sh",
       "path": "code_snipits/turtlebot_setup.sh.md"
     },
@@ -41,48 +105,12 @@
       "path": "templates/lab_template.md"
     },
     {
-      "basename": "Introduction to Linux",
-      "path": "Introduction to Linux.md"
-    },
-    {
-      "basename": "Lab01_Manual",
-      "path": "Labs/Lab01/Lab01_Manual.md"
-    },
-    {
-      "basename": "Lab02_Manual",
-      "path": "Labs/Lab02/Lab02_Manual.md"
-    },
-    {
       "basename": "global_and_local",
       "path": "code_snipits/global_and_local.md"
     },
     {
-      "basename": "Lab02",
-      "path": "Labs/Lab02/Lab02.md"
-    },
-    {
-      "basename": "Lab04",
-      "path": "Labs/Lab04.md"
-    },
-    {
-      "basename": "Lab03",
-      "path": "Labs/Lab03.md"
-    },
-    {
-      "basename": "Lab07",
-      "path": "Labs/Lab07.md"
-    },
-    {
       "basename": "niryo_ned_setup.sh",
       "path": "code_snipits/niryo_ned_setup.sh.md"
-    },
-    {
-      "basename": "Labs",
-      "path": "Labs/Labs.md"
-    },
-    {
-      "basename": "Labs_Introduction",
-      "path": "Labs/Labs_Introduction.md"
     },
     {
       "basename": "Week4",
@@ -103,14 +131,6 @@
     {
       "basename": "Week0",
       "path": "Homework/Week0.md"
-    },
-    {
-      "basename": "Lab00",
-      "path": "Labs/Lab00/Lab00.md"
-    },
-    {
-      "basename": "Lab01",
-      "path": "Labs/Lab01/Lab01.md"
     },
     {
       "basename": "Home",
@@ -171,34 +191,6 @@
     {
       "basename": "i2c",
       "path": "fall23_classes/ee3171/i2c.md"
-    },
-    {
-      "basename": "2023-11-14",
-      "path": "daily_notes/2023-11-14.md"
-    },
-    {
-      "basename": "dynamics_week12_day1",
-      "path": "fall23_classes/meem2700/dynamics_week12_day1.md"
-    },
-    {
-      "basename": "dynamics_week11_day3",
-      "path": "fall23_classes/meem2700/dynamics_week11_day3.md"
-    },
-    {
-      "basename": "can",
-      "path": "fall23_classes/ee3171/can.md"
-    },
-    {
-      "basename": "dynamics_week11_day2",
-      "path": "fall23_classes/meem2700/dynamics_week11_day2.md"
-    },
-    {
-      "basename": "timer_functions",
-      "path": "fall23_classes/ee3171/timer_functions.md"
-    },
-    {
-      "basename": "signals_week11_day2",
-      "path": "fall23_classes/ee3160/class_notes/signals_week11_day2.md"
     }
   ],
   "omittedPaths": [],
